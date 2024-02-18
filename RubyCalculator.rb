@@ -1,5 +1,4 @@
-puts "******* Calculator *******"
-puts "Loading.." # Cuz interpreted languages tend to be slow
+puts "******* Calculator *******"
 def add(num1,num2)
     return num1 + num2
 end
